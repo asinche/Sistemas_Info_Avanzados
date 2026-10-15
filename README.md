@@ -1,6 +1,6 @@
 # Aplicación base — Sistemas de Información Avanzada (6SC)
 
-Universidad Agraria del Ecuador · Carrera de Ciencias de la Computación · 2026-2027 CII
+Universidad Agraria del Ecuador · Carrera de Computación en línea · 2026-2027 CII
 Docente: Ing. Andrea Sinche Guzmán, MSc.
 
 Aplicación web base del proyecto **«De aplicación web a sistema de información»**.
